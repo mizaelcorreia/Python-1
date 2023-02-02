@@ -15,10 +15,11 @@ def constróiMatriz(m, n, matriz):
             linha.append(x)
 
         matriz.append(linha)
+    m=10
 
 constróiMatriz(m, n, matriz)
 
-print(matriz)
+print(matriz,m)
 
 """
 ****resolução****
